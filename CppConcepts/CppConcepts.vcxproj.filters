@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Polymorphism\Basics.cpp">
+      <Filter>Polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="General\FriendFunction.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="General\ConstKeyword.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="General\SmartPointers.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="General\FunctionPointers.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="General\Constructors.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="General\MoveConstructor.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="General\LValueRValue.cpp">
+      <Filter>General</Filter>
+    </ClCompile>
+    <ClCompile Include="Advanced\MultiThreadSyncing.cpp">
+      <Filter>Advanced</Filter>
+    </ClCompile>
+    <ClCompile Include="Advanced\Template.cpp">
+      <Filter>Advanced</Filter>
+    </ClCompile>
+    <ClCompile Include="Advanced\Thread.cpp">
+      <Filter>Advanced</Filter>
+    </ClCompile>
+    <ClCompile Include="STL\Vector.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Polymorphism">
+      <UniqueIdentifier>{868b7b2b-c1ca-47b1-bee8-8e5c7d7ad147}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="General">
+      <UniqueIdentifier>{25c40562-5c6b-41c0-ad5d-617ac2ce9b0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Advanced">
+      <UniqueIdentifier>{0445ad1b-ba6b-48be-909e-f61071a5867b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{a8d8727e-851c-4b1e-a701-fa37ab517262}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

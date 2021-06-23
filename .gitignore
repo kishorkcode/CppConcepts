@@ -1,0 +1,12 @@
+/.vs/*
+/*.VC.*
+/**/*.user
+/packages
+
+**/x64
+**/bin
+**/Output
+**/obj
+**/*/x64
+**/ipch
+**/out
